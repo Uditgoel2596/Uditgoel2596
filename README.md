@@ -1,7 +1,7 @@
 Hi, I'm Udit Goel! 👋
 
-Aspiring data analyst with a passion for uncovering insights from messy datasets. 
-Former US recruiter turned data enthusiast. 
+Former US recruiter turned data analyst, leveraging my skills to drive business growth and inform strategic decisions. 
+With a passion for uncovering insights from complex data sets, I'm excited to connect with like-minded professionals and explore the world of data together! 
 Let's connect and explore the world of data together! 🚀📊
 
 Skills
