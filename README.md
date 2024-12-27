@@ -1,7 +1,8 @@
 "Hi, I'm Udit Goel! 👋
 
 MIS Analyst turned Data Analyst | Unlocking Insights with Data
-With 1+ year of experience as an MIS Analyst, I've developed a strong foundation in data analysis and visualization. Recently, I've enhanced my skills through intensive courses, mastering tools like Python, SQL, Power BI, and Excel. I'm excited to leverage my skills to drive business growth and inform strategic decisions.
+✦ With 1+ year of experience as an MIS Analyst, I've developed a strong foundation in data analysis and visualization. Recently, I've enhanced my skills through intensive courses, mastering tools like Python, SQL, Power BI, and Excel.
+✦ After a deliberate career break, I'm re-entering the industry in a beginner-level role, eager to rebuild my career in Data/Business Analysis. I'm available immediately, open to relocation, and flexible on compensation.
 
 Tech Skills:
 ✦ Python: Data manipulation, analysis, scripting
