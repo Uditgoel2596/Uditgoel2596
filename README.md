@@ -1,17 +1,14 @@
-Hi, I'm Udit Goel! 👋
+"Hi, I'm Uoit Goel! 👋
 
-Former US recruiter turned data analyst, leveraging my skills to drive business growth and inform strategic decisions. 
-With a passion for uncovering insights from complex data sets, I'm excited to connect with like-minded professionals and explore the world of data together! 
-Let's connect and explore the world of data together! 🚀📊
+MIS Analyst turned Data Analyst | Unlocking Insights with Data
+With 1+ year of experience as an MIS Analyst, I've developed a strong foundation in data analysis and visualization. Recently, I've enhanced my skills through intensive courses, mastering tools like Python, SQL, Power BI, and Excel. I'm excited to leverage my skills to drive business growth and inform strategic decisions.
 
-Skills
-**Python:** Proficient in data manipulation, analysis, and scripting
-**SQL:** Skilled in querying databases and extracting meaningful information
-**Power BI:** Experienced in creating interactive visualizations and business intelligence solutions
-**Data Visualization:** Experienced in creating visual representations of data using tools like:
-Matplotlib
-Seaborn
-**Excel:** Proficient in data cleaning, pivot tables, and basic analytics
+Tech Skills:
+✦ Python: Data manipulation, analysis, scripting
+✦ SQL: Database querying, data extraction
+✦ Power BI: Interactive visualizations, business intelligence
+✦ Data Visualization: Matplotlib, Seaborn, Excel
+✦ Excel: Data cleaning, pivot tables, advanced analytics
 
 Projects
 **Telecom Churn Customer Analysis (SQL, Power BI) **
