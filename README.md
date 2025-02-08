@@ -1,8 +1,9 @@
 "Hi, I'm Udit Goel! 👋
 
-MIS Analyst turned Data Analyst | Unlocking Insights with Data
-✦ With 1+ year of experience as an MIS Analyst, I've developed a strong foundation in data analysis and visualization. Recently, I've enhanced my skills through intensive courses, mastering tools like Python, SQL, Power BI, and Excel.
-✦ After a deliberate career break, I'm re-entering the industry in a beginner-level role, eager to rebuild my career in Data/Business Analysis. I'm available immediately, open to relocation, and flexible on compensation.
+MIS Analyst | Data Analysis and Visualization Expert ✦ With 1+ year of experience in data analysis and visualization, I'm passionate about driving business growth through data-driven insights. ✦ Proficient in Python, SQL, Power BI, Excel, and data visualization tools like Matplotlib and Seaborn.
+
+Current Focus:
+Currently working as an MIS Analyst at PeopleStrong, where I'm applying my data analysis and visualization skills to drive business outcomes.
 
 Tech Skills:
 ✦ Python: Data manipulation, analysis, scripting
@@ -11,7 +12,7 @@ Tech Skills:
 ✦ Data Visualization: Matplotlib, Seaborn, Excel
 ✦ Excel: Data cleaning, pivot tables, advanced analytics
 
-Projects
+Here are some of my notable projects:
 **Telecom Churn Customer Analysis (SQL, Power BI) **
   GitHub Repository: https://github.com/Uditgoel2596/Telecom-Business-Case-Study-SQL-Power-BI-
   
@@ -24,5 +25,6 @@ Projects
 ...and many more on the way! Stay tuned!
 
 Let's Connect!
+
 LinkedIn: linkedin.com/in/udit-goel-data-analyst
 GitHub: github.com/Uditgoel2596
